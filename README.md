@@ -1,5 +1,3 @@
-# Amazon_Music_Clustering
-
 <h1 align="center">🎵 Amazon Music Clustering Analysis</h1>
 
 <p align="center">
