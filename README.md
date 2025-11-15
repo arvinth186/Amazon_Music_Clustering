@@ -161,7 +161,6 @@ These insights can be leveraged for:
 
 <b>Arvinth AthiKesav</b>  
 🎧 <i>Amazon Music Clustering — Data Science Mini Project</i>  
-📬 <b>GitHub:</b> [PriyaRoshini11](https://github.com/PriyaRoshini11)
 
 ---
 
